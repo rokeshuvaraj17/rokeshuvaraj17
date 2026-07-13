@@ -4,6 +4,11 @@
   <b>Aerospace Engineer</b> — Guidance, Navigation & Control · State Estimation · AI-Driven Flight Systems
 </p>
 
+
+<p align="center">
+  <b>Aerospace Engineer</b> — Guidance, Navigation & Control · State Estimation · AI-Driven Flight Systems
+</p>
+
 <p align="center">
   M.S. Aerospace Engineering <b>@ Virginia Tech</b> · Engineering Intern building VTOL drones <b>@ SolakAir</b> · Founder of <b>MR Rokesh Softwares</b>
 </p>
@@ -99,6 +104,21 @@ As a **Teaching Assistant at Virginia Tech**, I teach system dynamics & control 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rokeshuvaraj17&theme=github-compact&hide_border=true&area=true" alt="Activity graph" />
+</p>
+
+## 💻 Development Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rokeshuvaraj17&theme=default" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rokeshuvaraj17&theme=default" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rokeshuvaraj17&theme=default" alt="Most committed language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rokeshuvaraj17&theme=default&utcOffset=-5" alt="Productive time" />
 </p>
 
 ## 📫 Contact

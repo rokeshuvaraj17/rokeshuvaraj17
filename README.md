@@ -59,7 +59,7 @@ As a **Teaching Assistant at Virginia Tech**, I teach system dynamics & control 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rokeshuvaraj17&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+  <img src="github-readme-stats-bice-tau-91.vercel.app" alt="GitHub stats" />
 </p>
 
 ## 📫 Contact

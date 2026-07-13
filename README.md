@@ -4,11 +4,6 @@
   <b>Aerospace Engineer</b> — Guidance, Navigation & Control · State Estimation · AI-Driven Flight Systems
 </p>
 
-
-<p align="center">
-  <b>Aerospace Engineer</b> — Guidance, Navigation & Control · State Estimation · AI-Driven Flight Systems
-</p>
-
 <p align="center">
   M.S. Aerospace Engineering <b>@ Virginia Tech</b> · Engineering Intern building VTOL drones <b>@ SolakAir</b> · Founder of <b>MR Rokesh Softwares</b>
 </p>

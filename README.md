@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  M.S. Aerospace Engineering <b>@ Virginia Tech</b> · Engineering Intern building VTOL drones <b>@ SolakAir</b> · Founder of <b>MR Rokesh Softwares</b>
+  M.S. Aerospace Engineering <b>@ Virginia Tech</b> · Engineering Intern building VTOL drones <b>@ SolakAir</b>
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@ As a **Teaching Assistant at Virginia Tech**, I teach system dynamics & control 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="github-readme-stats-bice-tau-91.vercel.app" alt="GitHub stats" />
+  <img src="https://github-readme-stats-bice-tau-91.vercel.app/api?username=rokeshuvaraj17&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
 </p>
 
 ## 📫 Contact

@@ -5,11 +5,17 @@
 </p>
 
 <p align="center">
-  M.S. Aerospace Engineering <b>@ Virginia Tech</b> · Engineering Intern building VTOL drones <b>@ SolakAir</b>
+  M.S. Aerospace Engineering <b>@ Virginia Tech</b> · Engineering Intern building VTOL drones <b>@ SolakAir</b> · Founder of <b>MR Rokesh Softwares</b>
 </p>
 
 <p align="center">
   📍 Blacksburg, Virginia, USA
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rokeshuvarajnagarajan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rokeshuvarajn@vt.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.rokesh.in"><img src="https://img.shields.io/badge/Website-rokesh.in-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" /></a>
 </p>
 
 ---
@@ -21,6 +27,28 @@ I focus on **guidance, navigation, and control (GNC)** with a strong foundation 
 I'm integrating **learning-based components** into control and estimation pipelines — exploring hybrid model-based and data-driven approaches for flight systems. Alongside my aerospace research, I build **full-stack SaaS products** and **self-hosted infrastructure** for Tamil Nadu SMBs.
 
 As a **Teaching Assistant at Virginia Tech**, I teach system dynamics & control (AOE 3034) and computational methods (AOE 2074) — covering state-space modeling, stability analysis, numerical methods, and MATLAB-based dynamic systems.
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ## 🚀 What I'm working on
 

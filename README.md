@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  M.S. Aerospace Engineering <b>@ Virginia Tech</b> · Engineering Intern building VTOL drones <b>@ SolakAir</b> · Founder of <b>MR Rokesh Softwares</b>
+  M.S. Aerospace Engineering <b>@ Virginia Tech</b> · Engineering Intern building VTOL drones <b>@ SolakAir</b>
 </p>
 
 <p align="center">
